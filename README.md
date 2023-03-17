@@ -2,7 +2,7 @@
 # Pyannote plays and Whisper rhymes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Majdoddin/nlp/blob/main/Pyannote_plays_and_Whisper_rhymes_v_2_0.ipynb)
 
 ## Whisper's transcription plus Pyannote's Diarization 
-**Update** - Using the new word-level timestamping of Whisper, the transcription words are highligted as the video plays, with optional autoscroll. And the display on small displays is improved.
+**Update** - Using the new word-level timestamping of Whisper, the transcription words are highlighted as the video plays, with optional autoscroll. And the display on small displays is improved.
 
 Moreover, the model is loaded just once, thus the whole thing runs much faster now. You can also hardcode your Huggingface token. 
 
