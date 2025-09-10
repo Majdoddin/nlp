@@ -1,3 +1,8 @@
+## This project has matured to **🚀[lexicaps](https://github.com/majdoddin/lexicaps)** as SOTA diarization on top of Whisper. ##
+
+---
+
+
 *If you like my code, please [donate!](./donation/donation.md)*
 # Pyannote plays and Whisper rhymes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Majdoddin/nlp/blob/main/Pyannote_plays_and_Whisper_rhymes_v_2_0.ipynb)
 
